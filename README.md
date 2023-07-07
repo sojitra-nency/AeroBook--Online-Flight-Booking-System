@@ -72,11 +72,6 @@ Code Editor: Any text editor or integrated development environment (IDE) such as
 ![Screenshot (73)](https://github.com/sojitra-nency/AeroBook/assets/78294964/0d292b25-4c0c-4ce5-b7c3-5cce6350196d)
 
 
-#### 	FEEDBACK PAGE
- 
-![Screenshot (62)](https://github.com/sojitra-nency/AeroBook/assets/78294964/a2f98bf3-06de-45d2-ada3-d295659064fe)
-
-
 #### 	MY FLIGHT STATUS PAGE
  
 ![Screenshot (59)](https://github.com/sojitra-nency/AeroBook/assets/78294964/ec8ff92a-3b5c-4ba3-91af-d77c65c8b39e)
@@ -87,6 +82,13 @@ Code Editor: Any text editor or integrated development environment (IDE) such as
 ![Screenshot (60)](https://github.com/sojitra-nency/AeroBook/assets/78294964/c0c14b8e-46f8-4d9a-87a1-386c4d475200)
 
 ![Screenshot (61)](https://github.com/sojitra-nency/AeroBook/assets/78294964/3b9c5b89-033a-4f8f-94db-790d4f3a3670)
+
+
+#### 	FEEDBACK PAGE
+ 
+![Screenshot (62)](https://github.com/sojitra-nency/AeroBook/assets/78294964/a2f98bf3-06de-45d2-ada3-d295659064fe)
+
+
 
 ### FOR ADMIN:
 #### LOGIN PAGE
