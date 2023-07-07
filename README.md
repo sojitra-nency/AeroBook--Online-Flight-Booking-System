@@ -1,5 +1,3 @@
-![Screenshot (69)](https://github.com/sojitra-nency/AeroBook/assets/78294964/c9dc093e-e3c1-45a5-bf57-b429c47152aa)# AeroBook
-
 ## INTRODUCTION
 Welcome to AeroBook, a comprehensive flight ticket booking web application designed to simplify your travel experience. AeroBook is a user-friendly platform that allows both users and administrators to seamlessly interact with the system and perform various tasks efficiently.
 
