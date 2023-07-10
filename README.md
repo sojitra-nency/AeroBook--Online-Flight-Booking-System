@@ -15,11 +15,14 @@ The Online Flight Booking System can be implemented using a variety of technolog
 #### Front-end:
 
 HTML: Used to structure web pages and provide semantic markup.
+
 CSS: Used to style web pages and create visually appealing layouts.
+
 JavaScript: Used for client-side functionality, such as form validation, dynamic content updates, and interactive user interfaces.
 
 #### Back-end:
 PHP: A server-side scripting language used to process user requests, handle form submissions, and interact with the database.
+
 MySQL: A relational database management system used to store and retrieve data related to flights, bookings, user profiles, etc.
 
 #### Web Server:
